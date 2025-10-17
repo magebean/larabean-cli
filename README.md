@@ -1,6 +1,6 @@
 # larabean-cli
 
-# Larasec — Controls & Rules (Maskup)
+# Larabean — Controls & Rules
 
 _Controls with rule titles only — for planning/backlog seed._
 
